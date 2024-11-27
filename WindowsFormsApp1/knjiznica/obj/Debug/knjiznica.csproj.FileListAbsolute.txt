@@ -1,0 +1,10 @@
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.csproj.AssemblyReference.cache
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.Form1.resources
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.Properties.Resources.resources
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.csproj.GenerateResource.cache
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\bin\Debug\knjiznica.exe.config
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\bin\Debug\knjiznica.exe
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\bin\Debug\knjiznica.pdb
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.exe
+C:\Users\g.jevtovic\source\repos\WindowsFormsApp1\knjiznica\obj\Debug\knjiznica.pdb
